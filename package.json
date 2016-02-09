@@ -1,0 +1,23 @@
+{
+  "name": "collect-screenshot",
+  "version": "0.0.1",
+  "description": "collect screenshots from url list",
+  "main": "index.js",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peccu/collect-screenshot.git"
+  },
+  "author": "peccu <peccul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peccu/collect-screenshot/issues"
+  },
+  "homepage": "https://github.com/peccu/collect-screenshot#readme"
+}
